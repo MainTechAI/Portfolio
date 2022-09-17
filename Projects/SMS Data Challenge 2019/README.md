@@ -13,8 +13,6 @@ It was just a brainstorming session.
 
 I can't remember all the details, as it was three years ago.
 
-
-
-
-
+MainScript.ipynb contains ...
+Scores.ipynb contains ...
 
