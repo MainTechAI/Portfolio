@@ -9,3 +9,7 @@
 7. [Masters's thesis](https://github.com/MainTechAI/3D-point-cloud-semantic-segmentation) - the source code has not been uploaded yet
 8. ...
 
+To complete this list, I need to look through the files on my old hard drive 
+(about 100 GB). So it will take some time.
+
+
