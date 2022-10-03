@@ -9,13 +9,19 @@ The project was made in 2018.
 
 ___
 
-### Training
+## Training
 
-
+#### 1. YOLO
 
 The training/testing data were collected from the internet, some were manually uploaded, 
-and some were automatically parsed from search engine results. In total there are 
-11100 images of different sizes.
+and some were automatically parsed. In total there are 11100 images of different sizes.
 
 These images were manually labeled using [OpenLabeling](https://github.com/Cartucho/OpenLabeling/) tool.
-It was chosen for labeling because it supports the required annotation formats (PASCAL VOC, YOLO darknet).
+It was chosen for labeling because it supports Pascal VOC annotation format. 
+Then, YOLO was trained using these images.
+
+#### 2. AdvancedEAST
+...
+
+#### 3. Tesseract OCR
+...
