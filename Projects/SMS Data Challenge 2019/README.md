@@ -13,6 +13,15 @@ It was just a brainstorming session.
 
 I can't remember all the details, as it was three years ago.
 
-MainScript.ipynb contains ...
-Scores.ipynb contains ...
+_____
+
+(TODO) find and add data preprocessing notebook (as it was quite challenging)
+
+(TODO) MainScript.ipynb contains ...
+
+(TODO) Scores.ipynb contains ...
+
+Добавь описание самого челенджа. 
+Расскажи о предоставленных данных
+Чекни всю инфу что найдёшь в нете
 
