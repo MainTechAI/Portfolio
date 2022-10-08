@@ -1,6 +1,7 @@
 # Portfolio
 
 1. [AutoML](https://github.com/MainTechAI/AutoML) - My attempt to create a desktop application for running end-to-end AutoML experiments.
+2. [3D point cloud gestures recognition](https://github.com/MainTechAI/Portfolio/tree/master/Projects/3D%20point%20cloud%20gestures%20recognition)
 2. [AutoML library comparison](https://github.com/MainTechAI/AutoML-comparison) 
 3. [ChemTox](https://github.com/MainTechAI/Portfolio/tree/master/Projects/ChemTox) 
 4. [ANPR](https://github.com/MainTechAI/Portfolio/tree/master/Projects/ANPR)
