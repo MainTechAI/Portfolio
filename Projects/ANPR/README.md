@@ -7,6 +7,8 @@ The project was made in 2018.
 * The second stage is the text detection. This step is done by [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST).
 * The third stage is the character recognition. This step is done by [Tesseract OCR](https://github.com/tesseract-ocr/tesseract).
 
+![Example](example.gif)
+
 ___
 
 ## Training
