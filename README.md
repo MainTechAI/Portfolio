@@ -6,10 +6,10 @@
 4. [ChemTox](https://github.com/MainTechAI/Portfolio/tree/master/Projects/ChemTox) - Jupyter notebooks written during the research.
 5. [ANPR](https://github.com/MainTechAI/Portfolio/tree/master/Projects/ANPR) - a desktop application for the automatic number-plate recognition.
 6. [SMS Data Challenge 2019](https://github.com/MainTechAI/Portfolio/tree/master/Projects/SMS%20Data%20Challenge%202019) - Jupyter notebooks written during the contest.
-7. [Ant Colony Optimization](https://github.com/MainTechAI/Ants) - the shortest path finding technique.
-8. [Assignments](https://github.com/MainTechAI/Assignments) - solutions to assignments from LUT and SUSU.
+7. [Masters's thesis](https://github.com/MainTechAI/3D-point-cloud-semantic-segmentation) - 3D point cloud semantic segmentation using RandLA-Net.
+8. [Ant Colony Optimization](https://github.com/MainTechAI/Ants) - the shortest path finding technique.
 9. [MobileGame]() - 4X mobile game made with Unity **(the source code has not been uploaded yet)**.
-10. [Masters's thesis](https://github.com/MainTechAI/3D-point-cloud-semantic-segmentation) - 3D point cloud semantic segmentation using RandLA-Net **(the source code has not been uploaded yet)**.
+10. [Assignments](https://github.com/MainTechAI/Assignments) - solutions to assignments from LUT and SUSU.
 11. TODO: find and add your HTML/CSS/JS site.
 
 To complete this list, I need to look through the files on my old hard drive 
