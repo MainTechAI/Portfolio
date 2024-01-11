@@ -8,7 +8,7 @@
 6. [SMS Data Challenge 2019](https://github.com/MainTechAI/Portfolio/tree/master/Projects/SMS%20Data%20Challenge%202019) - Jupyter notebooks written during the contest.
 7. [Masters's thesis](https://github.com/MainTechAI/3D-point-cloud-semantic-segmentation) - 3D point cloud semantic segmentation using RandLA-Net.
 8. [Ant Colony Optimization](https://github.com/MainTechAI/Ants) - the shortest path finding technique.
-9. [MobileGame]() - 4X mobile game made with Unity **(the source code has not been uploaded yet)**.
+9. [MobileGame](https://mega.nz/folder/eLgCADrZ#Yy05yfPTR7PPtRX_Vj66pQ) - 4X mobile game made with Unity.
 10. [Assignments](https://github.com/MainTechAI/Assignments) - solutions to assignments from LUT and SUSU.
 11. TODO: find and add your HTML/CSS/JS site.
 
