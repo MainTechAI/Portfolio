@@ -1,7 +1,5 @@
 # Chemical toxicity prediction
 
-## The project was made in 2020. It serves more like a proof-of-concept.
-## (TODO) write an email
-## (TODO) Add description of results. Which model is better? Why? How can results be improved?
-Data sampling could significantly affect the accuracy of the model.
-TODO: check it
+The goal was to test different machine learning approaches for assessing the toxicity of a chemical by predicting its approximate LD50 value. The input data is a chemical encoded in SMILES format. Several machine learning and deep learning models were tested. 
+
+The project was made in 2020. It serves more as a proof-of-concept.
