@@ -9,7 +9,8 @@ The project was made in 2018.
 ![Example](example.gif)
 
 Python environment can be recreated using _PlateDetection.yml_ file.
-Files from the _tesseract_ folder, weights for AdvancedEAST and weights for YOLOv3 were excluded from the repository due to their large weight.
+Files from the _tesseract_ folder, weights for AdvancedEAST and weights for YOLOv3 stored on my 
+[Mega cloud](https://mega.nz/folder/fTZhzILQ#4YW4y-eCWruKoLpvkyEmkg).
 ___
 
 ### Training of YOLOv3
