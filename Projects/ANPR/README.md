@@ -9,7 +9,7 @@ The project was made in 2018.
 ![Example](example.gif)
 
 Python environment can be recreated using _PlateDetection.yml_ file.
-Files from the _tesseract_ folder, weights for AdvancedEAST and weights for YOLOv3 stored on my 
+Files from the _tesseract_ folder, weights and labeled datasets for YOLOv3 and AdvancedEAST are stored on my 
 [Mega cloud](https://mega.nz/folder/fTZhzILQ#4YW4y-eCWruKoLpvkyEmkg).
 ___
 
@@ -21,6 +21,10 @@ and some were automatically parsed. In total there were 11100 images of differen
 These images were manually labeled using [OpenLabeling](https://github.com/Cartucho/OpenLabeling/) tool.
 It was chosen for labeling because it supports **Pascal VOC** annotation format. 
 Then, YOLO was trained using these images.
+
+### Training of AdvancedEAST
+AdvancedEAST was fine-tuned using 2077 license plate images for better text detection in this domain.
+
 
 
 
