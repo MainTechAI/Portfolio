@@ -6,3 +6,5 @@ Projects/ANPR/YOLO/tesseract/
 Projects/ANPR/YOLO/resources/east_model_weights_3T256.h5
 
 Projects/ANPR/YOLO/resources/trained_weights_stage_1.h5
+
+Projects/ANPR/anpr/__pycache__/

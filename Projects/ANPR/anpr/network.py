@@ -1,20 +1,10 @@
-# coding=utf-8
 from keras import Input, Model
 from keras.applications.vgg16 import VGG16
 from keras.layers import Concatenate, Conv2D, UpSampling2D, BatchNormalization
-
 import cfg
-
-"""
-input_shape=(img.height, img.width, 3), height and width must scaled by 32.
-So images's height and width need to be pre-processed to the nearest num that
-scaled by 32.And the annotations xy need to be scaled by the same ratio 
-as height and width respectively.
-"""
 
 
 class East:
-
     def __init__(self):
         self.input_img = Input(name='input_img',
                                shape=(None, None, cfg.num_channels),
@@ -74,9 +64,3 @@ class East:
                                                        side_v_code,
                                                        side_v_coord])
         return Model(inputs=self.input_img, outputs=east_detect)
-
-
-
-
-
-
