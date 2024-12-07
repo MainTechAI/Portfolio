@@ -12,5 +12,9 @@
 10. [Assignments](https://github.com/MainTechAI/Assignments) - solutions to assignments from LUT and SUSU.
 
 
+# Upload code
+[AJOK](https://github.com/MainTechAI/AJOK) - Android app for driver attention and sleepiness monitoring (developed during Nokia's Unbreakable Connectivity [hackathon](https://new.ultrahack.org/hackathons/unbreakable-connectivity-hackathon/submissions/6737b9e22074bf0c135e2cb6))
+
+
 
 
